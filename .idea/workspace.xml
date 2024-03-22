@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad7fd4d2-80ff-435c-80fa-9ea6b2d411c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment1 old/Client1/a1-client1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1 old/Client2/a1-Client2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1 old/ServerApi/a1-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Assignment1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Assignment1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_3_spec_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_3_1_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_3_1_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_3_1_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_api_3_1_SP4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_3_1_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_spi_3_1_SP4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/client1/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/client1/MultiServletPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/client1/SingleServletPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/client2/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/client2/MultiServletPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/server/model/ResponseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/server/model/RideInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/server/servlet/SkiersServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/upic/server/model/APIStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/upic/server/model/LiftRide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/upic/server/model/ResortSkiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/upic/server/model/ResortsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/upic/server/model/SeasonsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/upic/server/model/SkierVertical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Upic_Assignment1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Upic_Assignment1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_el_jakarta_el_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_api_4_0_SP1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_spi_4_0_SP1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/artifacts/a1_client1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/artifacts/a1_client1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__io_swagger_swagger_java_client_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_classfilewriter_jboss_classfilewriter_1_2_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_3_spec_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_weld_weld_api_3_1_SP4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_jboss_weld_weld_spi_3_1_SP4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/a1-client1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/src/main/java/com/example/a1client1/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/src/main/java/com/example/a1client1/LiftRideClient1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/src/main/java/com/example/a1client1/LiftRideEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/src/main/java/com/example/a1client1/LiftRideEventGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/src/main/java/com/example/a1client1/LiftRideThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client1/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/artifacts/a1_Client2_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/artifacts/a1_Client2_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_classfilewriter_jboss_classfilewriter_1_2_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_3_spec_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_weld_weld_api_3_1_SP4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_3_1_8_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_jboss_weld_weld_spi_3_1_SP4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/a1-Client2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/src/main/java/com/example/a1client2/LiftRideClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/src/main/java/com/example/a1client2/LiftRideEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/src/main/java/com/example/a1client2/LiftRideThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/src/main/java/com/example/a1client2/Record.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/src/main/java/com/example/a1client2/RecordProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client2/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/artifacts/a1_server_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/artifacts/a1_server_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_12_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_el_jakarta_el_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_classfilewriter_jboss_classfilewriter_1_2_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_weld_weld_api_4_0_SP1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_4_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_jboss_weld_weld_spi_4_0_SP1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/a1-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/model/APIStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/model/LiftRide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/model/ResortSkiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/model/ResortsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/model/SeasonsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/model/SkierVertical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/java/com/upic/a1server/servlet/SkierServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/classes/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/classes/com/upic/a1server/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/classes/com/upic/a1server/HelloResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.12.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.12.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.12.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-jaxb-annotations-2.12.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.el-api-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.enterprise.cdi-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.inject-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.interceptor-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.validation-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jakarta.ws.rs-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jboss-classfilewriter-1.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-cdi2-se-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-client-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-common-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-container-servlet-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-container-servlet-core-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-entity-filtering-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-media-json-jackson-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/jersey-server-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/osgi-resource-locator-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/weld-api-4.0.SP1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/weld-core-impl-4.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/weld-environment-common-4.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/weld-probe-core-4.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/weld-se-core-4.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/a1-server-1.0-SNAPSHOT/WEB-INF/lib/weld-spi-4.0.SP1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/classes/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/classes/com/upic/a1server/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApi/target/classes/com/upic/a1server/HelloResource.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cT5pXDPQo47dxoECB72lCcEk5j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/upic/client1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.22117962" />
+    <property name="project.structure.side.proportion" value="0.22584693" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/upic/client1" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/upic/client2" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/upic/server/model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.upic.server.sevlet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.652" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.652" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Assignment1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Assignment1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0f5c2006-0690-405e-be1f-5fd66fd075ca" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59112" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Assignment1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7fd4d2-80ff-435c-80fa-9ea6b2d411c7" name="Changes" comment="" />
+      <created>1708122911768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708122911768</updated>
+      <workItem from="1708122912909" duration="5098000" />
+      <workItem from="1708988683323" duration="16083000" />
+      <workItem from="1710803651778" duration="1048000" />
+      <workItem from="1711060265811" duration="11676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
