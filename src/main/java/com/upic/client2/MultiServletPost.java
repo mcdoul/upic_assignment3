@@ -12,11 +12,10 @@ import java.util.stream.Collectors;
 public class MultiServletPost {
 
     public static void main(String[] args) {
-        // CSV file name to be written
+        // CSV file
         String csvFileName = "./records.csv";
         FileWriter fileWriter = null;
         try {
-            // write csv title
             fileWriter = new FileWriter(csvFileName);
             List<String> header = new ArrayList<>();
             header.add("start_time");
