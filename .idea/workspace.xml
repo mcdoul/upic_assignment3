@@ -52,11 +52,6 @@
       <change afterPath="$PROJECT_DIR$/../Assignment1/src/main/java/com/upic/server/model/ResponseMessage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Assignment1/src/main/java/com/upic/server/model/RideInfo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Assignment1/src/main/java/com/upic/server/servlet/SkiersServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_14_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/consumer/ConnectionPoolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/upic/consumer/ConsumerRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/artifacts/Upic_Assignment1_war.xml" beforeDir="false" />
@@ -303,10 +298,8 @@
       <change beforePath="$PROJECT_DIR$/../Assignment1/ServerApi/target/classes/META-INF/beans.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment1/ServerApi/target/classes/com/upic/a1server/HelloApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment1/ServerApi/target/classes/com/upic/a1server/HelloResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Assignment1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Assignment1_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upic/server/servlet/SkiersServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upic/server/servlet/SkiersServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,7 +449,7 @@
       <workItem from="1710803651778" duration="1048000" />
       <workItem from="1711060265811" duration="15619000" />
       <workItem from="1711584494716" duration="630000" />
-      <workItem from="1711688482951" duration="2047000" />
+      <workItem from="1711688482951" duration="3909000" />
     </task>
     <servers />
   </component>
